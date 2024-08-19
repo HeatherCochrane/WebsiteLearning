@@ -6,11 +6,6 @@ html {
     padding-bottom: 0px;
   }
 
-  body 
-  {
-    background-color: black;
-  }
-
   body::after {
     content: "";
     background: url("images/Corvidae/corvidaeBackground.png");
